@@ -1,0 +1,8 @@
+#Myfile
+#Sat Sep 10 20:34:18 EEST 2016
+address=California, 27 street
+age=45
+email=sorosgroup@gmail.com
+name=Tonny
+surname=Starck
+emai=sorosgroup@gmail.com
