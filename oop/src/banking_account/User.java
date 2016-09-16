@@ -1,3 +1,5 @@
+package banking_account;
+
 /**
  * Created by Stivie_Mr on 9/5/2016.
  */
@@ -19,8 +21,8 @@ public class User {
     //Overriding
     public void showInfo(){
         System.out.println("\nName: "+ name + "\nSurname: " + surname + "\nPersonal ID: " + personal_id +
-                "\nUser password: " + user_password +
-                "\nUser id: " + user_id +
+                "\nbanking_account.User password: " + user_password +
+                "\nbanking_account.User id: " + user_id +
          "\nCurrent account: " + current_account);
     }
 
